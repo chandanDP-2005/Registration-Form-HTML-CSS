@@ -34,45 +34,4 @@ The main goal of this project was to:
 * Understand responsive web design
 * Build a strong foundation in Front-End Development
 
-## 📸 Preview
 
-> Add a screenshot of your registration form here.
-
-Example:
-
-```
-images/screenshot.png
-```
-
-Then use:
-
-```markdown
-![Registration Form Preview](images/screenshot.png)
-```
-
-## 🔮 Future Improvements
-
-* Add JavaScript form validation
-* Improve responsiveness for all devices
-* Connect the form to a backend database
-* Add animations and interactive effects
-* Implement dark mode
-
-## 🤝 Contributing
-
-Contributions, suggestions, and feedback are always welcome. Feel free to fork this repository and submit a pull request.
-
-## 👨‍💻 Author
-
-**Chandan D P**
-
-* GitHub: https://github.com/your-username
-* LinkedIn: https://www.linkedin.com/in/your-linkedin-profile
-
-## ⭐ Support
-
-If you found this project helpful, please consider giving it a **⭐ Star** on GitHub. It motivates me to continue learning and building more projects.
-
----
-
-**This project represents the beginning of my Front-End Development journey, and I look forward to creating more exciting web applications as I continue learning. 🚀**
